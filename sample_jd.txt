@@ -1,0 +1,24 @@
+Job Title: Junior AI / Python Engineer
+
+Job Description:
+We are looking for a Junior AI / Python Engineer to join our team. The ideal candidate should have a strong foundation in Python programming and a basic understanding of machine learning and AI concepts.
+
+Responsibilities:
+- Write clean, maintainable Python code
+- Work with AI frameworks and libraries such as LangChain or similar
+- Build simple RAG pipelines and AI-powered applications
+- Assist in debugging and optimizing existing systems
+- Collaborate with senior engineers on AI projects
+
+Required Skills:
+- Python programming
+- Basic understanding of machine learning concepts
+- Familiarity with LLMs and prompt engineering
+- Knowledge of LangChain is a plus
+- Problem-solving and debugging skills
+
+Experience Level:
+- Fresher or 0–2 years of experience
+
+Role Type:
+- Full-time
