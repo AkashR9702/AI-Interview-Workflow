@@ -441,8 +441,9 @@ graph = workflow.compile(checkpointer=checkpointer)
 
 
 initial_state = {
-    "resume_path": "C:/Users/Akash/Desktop/Langgraph/Pre_Int_Agent/sample_cv.pdf",
-    "jd_path" : "C:/Users/Akash/Desktop/Langgraph/Pre_Int_Agent/sample_jd.txt",
+    # Provide relative paths to your resume and job description files
+    "resume_path": "sample_cv.pdf",
+    "jd_path": "sample_jd.txt",
     "raw_job_description": None, 
     "resume_profile": None,
     "jd_profile": None,
